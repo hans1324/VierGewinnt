@@ -1,0 +1,3 @@
+class KI extends Player {
+    
+}
